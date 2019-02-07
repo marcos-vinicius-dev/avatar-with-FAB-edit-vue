@@ -10,9 +10,9 @@
                 alt="Avatar"
             >
             <v-btn
-            class="avatar-edit"
+              absolute
+              class="avatar-edit"
               dark
-              right
               small
               fab
               color="blue_2"
@@ -32,8 +32,8 @@
 </script>
 <style>
     .avatar-edit{
-        margin-top: 60px;
-        margin-left: -10px;
+        margin-top: 30px;
+        margin-left: 40px;
     }
 </style>
 
